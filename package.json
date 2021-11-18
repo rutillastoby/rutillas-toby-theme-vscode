@@ -1,0 +1,37 @@
+{
+    "name": "rutillastoby-theme",
+    "displayName": "Rutillas Toby Theme",
+    "description": "Rutillas Toby Theme for Visual Studio Code with dark and light version.",
+    "version": "0.0.1",
+    "icon": "./icon/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rutillastoby/rutillastoby-theme-vscode"
+      },
+    "bugs": {
+        "url": "https://github.com/rutillastoby/rutillastoby-theme-vscode/issues"
+        },
+    "homepage": "https://rutillastoby.com",
+    "publisher": "rutillastoby",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rutillas Toby Theme - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rutillastoby-theme-dark-color-theme.json"
+            },
+            {
+                "label": "Rutillas Toby Theme - Light",
+                "uiTheme": "vs",
+                "path": "./themes/rutillastoby-theme-light-color-theme.json"
+            }
+        ]
+    }
+
+}
