@@ -13,6 +13,7 @@
 		"dropdown.background":"#10141f",
 		"settings.rowHoverBackground":"#090c13",
 		"badge.background":"#eed546",
+		"badge.foreground": "#090c13",
 
 		"titleBar.activeBackground":"#090c13",
 		"titleBar.inactiveBackground": "#090c13",

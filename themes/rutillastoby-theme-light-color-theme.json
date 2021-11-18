@@ -87,7 +87,7 @@
 				"source comment.block.documentation meta.tag punctuation",
 			],
 			"settings": {
-				"foreground": "#0ca819"
+				"foreground": "#008a0b"
 			}
 		},
 		{

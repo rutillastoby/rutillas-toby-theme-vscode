@@ -22,12 +22,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rutillas Toby Theme - Dark",
+                "label": "Rutillas Toby Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rutillastoby-theme-dark-color-theme.json"
             },
             {
-                "label": "Rutillas Toby Theme - Light",
+                "label": "Rutillas Toby Light Theme",
                 "uiTheme": "vs",
                 "path": "./themes/rutillastoby-theme-light-color-theme.json"
             }
