@@ -3,6 +3,7 @@
     "displayName": "Rutillas Toby Theme",
     "description": "Rutillas Toby Theme for Visual Studio Code with dark and light version.",
     "version": "0.0.1",
+    "license": "MIT",
     "icon": "./icon/icon.png",
     "repository": {
         "type": "git",
