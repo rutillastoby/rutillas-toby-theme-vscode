@@ -6,12 +6,12 @@ Its range of minimalist and delicate colors in the different options and menus o
 
 ## Dark Theme
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rutillastoby/rutillastoby-theme-vscode/main/screenshots/screenshot-dark.png" width=85%/>
+    <img src="https://raw.githubusercontent.com/rutillastoby/rutillastoby-theme-vscode/main/screenshots/screenshot-dark.png" width=95%/>
 </div>
 
 ## Light Theme
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rutillastoby/rutillastoby-theme-vscode/main/screenshots/screenshot-light.png" width=85%/>
+    <img src="https://raw.githubusercontent.com/rutillastoby/rutillastoby-theme-vscode/main/screenshots/screenshot-light.png" width=95%/>
 </div>
 
 ## Install
