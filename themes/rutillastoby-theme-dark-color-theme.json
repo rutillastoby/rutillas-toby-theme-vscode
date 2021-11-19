@@ -65,8 +65,10 @@
 		"notifications.background":"#090c13",
 		"notifications.foreground": "#fff",
 		
-
+		
 		"statusBar.background": "#eed546",
+		"statusBar.debuggingBackground": "#eed546",
+		"statusBar.noFolderBackground": "#eed546",
 		"statusBar.foreground": "#090c13",		
 	
 	},

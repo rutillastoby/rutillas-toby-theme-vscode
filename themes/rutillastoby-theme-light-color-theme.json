@@ -69,6 +69,8 @@
 		
 
 		"statusBar.background": "#eed546",
+		"statusBar.debuggingBackground": "#eed546",
+		"statusBar.noFolderBackground": "#eed546",
 		"statusBar.foreground": "#090c13",		
 	
 	},
