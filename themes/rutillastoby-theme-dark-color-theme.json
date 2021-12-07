@@ -94,10 +94,19 @@
 			"name": "preprocessor",
 			"scope": [
 				"meta.preprocessor.cs",
-				"keyword.preprocessor"
+				"keyword.preprocessor",
 			],
 			"settings": {
 			  "foreground": "#00f7b9"
+			}
+		},
+		{
+			"name": "quoted",
+			"scope": [
+				"string.quoted.raw"
+			],
+			"settings": {
+			  "foreground": "#69a7c0"
 			}
 		},
 		{
